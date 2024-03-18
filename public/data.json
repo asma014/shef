@@ -1,0 +1,63 @@
+[
+    {
+      "recipe_id": "1",
+      "id": "01",
+      "recipe_name": "Chicken Parmesan",
+      "short_description": "Breaded chicken topped with marinara sauce and melted cheese.",
+      "ingredients": ["chicken breasts", "bread crumbs", "marinara sauce", "mozzarella cheese", "parmesan cheese"],
+      "preparing_time": "45",
+      "calories": "450",
+      "recipe_image": "https://i.ibb.co/BrRvyLs/Chicken-Parmesan.webp"
+    },
+    {
+      "recipe_id": "2",
+      "id": "02",
+      "recipe_name": "Vegetable Lasagna",
+      "short_description": "Layers of lasagna noodles, marinara sauce, and mixed vegetables.",
+      "ingredients": ["lasagna noodles", "marinara sauce", "zucchini", "mushrooms", "spinach", "ricotta cheese"],
+      "preparing_time": "60",
+      "calories": "550",
+      "recipe_image": "https://i.ibb.co/tBtMQtK/vegetarian-lasagna.jpg"
+    },
+    {
+      "recipe_id": "3",
+      "id": "03",
+      "recipe_name": "Beef Stir-Fry",
+      "short_description": "Tender beef strips cooked with colorful vegetables in a savory sauce.",
+      "ingredients": ["beef sirloin", "bell peppers", "onions", "broccoli", "soy sauce", "ginger", "garlic"],
+      "preparing_time": "30",
+      "calories": "400",
+      "recipe_image": "https://i.ibb.co/jhG7sHL/beef-stir-fry.jpg"
+    },
+    {
+      "recipe_id": "4",
+      "id": "04",
+      "recipe_name": "Quinoa Salad",
+      "short_description": "Nutritious salad made with quinoa, mixed greens, and assorted vegetables.",
+      "ingredients": ["quinoa", "mixed greens", "tomatoes", "cucumbers", "bell peppers", "feta cheese"],
+      "preparing_time": "20",
+      "calories": "300",
+      "recipe_image": "https://i.ibb.co/f2HnRP5/Quinoa-Salad.jpg"
+    },
+    {
+      "recipe_id": "5",
+      "id": "05",
+      "recipe_name": "Shrimp Scampi",
+      "short_description": "Succulent shrimp sautéed with garlic, butter, lemon, served over pasta.",
+      "ingredients": ["shrimp", "linguine pasta", "garlic", "butter", "lemon juice", "parsley"],
+      "preparing_time": "25",
+      "calories": "380",
+      "recipe_image": "https://i.ibb.co/zNHMpQf/Shrimp-Scampi.jpg"
+    },
+    {
+      "recipe_id": "6",
+      "id": "06",
+      "recipe_name": "Berry Smoothie Bowl",
+      "short_description": "Refreshing smoothie bowl topped with fresh berries and granola.",
+      "ingredients": ["mixed berries (strawberries, blueberries, raspberries)", "banana", "Greek yogurt", "honey", "granola"],
+      "preparing_time": "10",
+      "calories": "250",
+      "recipe_image": "https://i.ibb.co/wKJ7ptL/berry.jpg"
+    }
+  ]
+  
